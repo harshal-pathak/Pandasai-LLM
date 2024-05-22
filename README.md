@@ -1,4 +1,4 @@
-# ![PandasAI](images/logo.png)
+# ![PandasAI](logo.png)
 
 
 PandasAI is a Python library that makes it easy to ask questions to your data in natural language. It helps you to explore, clean, and analyze your data using generative AI.
@@ -84,7 +84,7 @@ agent.chat(
 )
 ```
 
-![Chart](images/histogram-chart.png?raw=true)
+![Chart](histogram-chart.png?raw=true)
 
 ### Multiple DataFrames
 
